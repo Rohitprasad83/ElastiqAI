@@ -19,6 +19,7 @@ public class TableSortSearchPage extends BasePage{
 
     public void enterIntoSearchBox(String search){
         waitForElementToBeVisible(searchBox);
+        searchBox.clear();
         searchBox.sendKeys(search);
     }
 
