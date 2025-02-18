@@ -1,0 +1,28 @@
+2025-02-18 19:54:15 INFO  TableSortSearchResults:29 - starting test
+2025-02-18 20:30:55 INFO  BaseTest:22 - -----------------------------
+2025-02-18 20:30:55 INFO  BaseTest:23 - Starting the automation suite
+2025-02-18 20:30:57 INFO  BaseTest:30 - file not loaded, check if the file exists
+2025-02-18 20:34:21 INFO  BaseTest:22 - -----------------------------
+2025-02-18 20:34:21 INFO  BaseTest:23 - Starting the automation suite
+2025-02-18 20:35:01 INFO  BaseTest:50 - Closing the automation suite
+2025-02-18 20:35:17 INFO  BaseTest:22 - -----------------------------
+2025-02-18 20:35:17 INFO  BaseTest:23 - Starting the automation suite
+2025-02-18 20:35:21 INFO  BaseTest:50 - Closing the automation suite
+2025-02-18 20:35:30 INFO  BaseTest:22 - -----------------------------
+2025-02-18 20:35:30 INFO  BaseTest:23 - Starting the automation suite
+2025-02-18 20:35:37 INFO  BaseTest:50 - Closing the automation suite
+2025-02-18 20:36:15 INFO  BaseTest:22 - -----------------------------
+2025-02-18 20:36:15 INFO  BaseTest:23 - Starting the automation suite
+2025-02-18 20:36:38 INFO  BaseTest:13 - staring the table sort search test method
+2025-02-18 20:36:38 INFO  BaseTest:16 - entering New York in search box.
+2025-02-18 20:36:38 INFO  BaseTest:50 - Closing the automation suite
+2025-02-18 20:38:07 INFO  Class:22 - -----------------------------
+2025-02-18 20:38:07 INFO  Class:23 - Starting the automation suite
+2025-02-18 20:38:09 INFO  Class:13 - staring the table sort search test method
+2025-02-18 20:38:09 INFO  Class:16 - entering New York in search box.
+2025-02-18 20:38:09 INFO  Class:48 - Closing the automation suite
+2025-02-18 20:39:34 INFO  TableSortSearchResults:22 - -----------------------------
+2025-02-18 20:39:34 INFO  TableSortSearchResults:23 - Starting the automation suite
+2025-02-18 20:39:36 INFO  TableSortSearchResults:13 - staring the table sort search test method
+2025-02-18 20:39:36 INFO  TableSortSearchResults:16 - entering New York in search box.
+2025-02-18 20:39:36 INFO  TableSortSearchResults:48 - Closing the automation suite
