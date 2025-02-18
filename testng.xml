@@ -6,7 +6,7 @@
     </listeners>
     <test name="src/test/java/org.elasticAI">
         <classes>
-            <class name="org.elasticAI.TableSortSearchResults">
+            <class name="org.elasticAI.TableSortSearchTest">
             </class>
         </classes>
     </test>
